@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: f65f886bcd0cf024bb05503147b0782b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4498999242551813141
+    second: UnityGame (1920 x 1080 px) (2)_0
+  - first:
+      213: 6111971007818557947
+    second: UnityGame (1920 x 1080 px) (2)_1
+  - first:
+      213: -7024716268627316065
+    second: UnityGame (1920 x 1080 px) (2)_2
+  - first:
+      213: -5591949091981517706
+    second: UnityGame (1920 x 1080 px) (2)_3
+  - first:
+      213: -168845317506662215
+    second: UnityGame (1920 x 1080 px) (2)_4
+  - first:
+      213: 1151517150203211583
+    second: UnityGame (1920 x 1080 px) (2)_5
+  - first:
+      213: 4236830515708885362
+    second: UnityGame (1920 x 1080 px) (2)_6
+  - first:
+      213: -1485565728571006877
+    second: UnityGame (1920 x 1080 px) (2)_7
+  - first:
+      213: -1105086337559557704
+    second: UnityGame (1920 x 1080 px) (2)_8
+  - first:
+      213: 8671581438423526462
+    second: UnityGame (1920 x 1080 px) (2)_9
+  - first:
+      213: -6423160742671754394
+    second: UnityGame (1920 x 1080 px) (2)_10
+  - first:
+      213: 606945561460405340
+    second: UnityGame (1920 x 1080 px) (2)_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnityGame (1920 x 1080 px) (2)_0
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 119
+        width: 1367
+        height: 961
+      alignment: 9
+      pivot: {x: 0.50396615, y: 0.9550982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5146d0179f7af6e30800000000000000
+      internalID: 4498999242551813141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityGame (1920 x 1080 px) (2)_1
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 823
+        width: 279
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9e28ebf3512d450800000000000000
+      internalID: 6111971007818557947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityGame (1920 x 1080 px) (2)_2
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 356
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92bf80b5c1338e90800000000000000
+      internalID: -7024716268627316065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityGame (1920 x 1080 px) (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 249
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c9f52ade76562b0800000000000000
+      internalID: -5591949091981517706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityGame (1920 x 1080 px) (2)_4
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 291
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0070c041428adf0800000000000000
+      internalID: -168845317506662215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityGame (1920 x 1080 px) (2)_5
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 201
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe1a24fb20bff00800000000000000
+      internalID: 1151517150203211583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityGame (1920 x 1080 px) (2)_6
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 171
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279fc5608ee3cca30800000000000000
+      internalID: 4236830515708885362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityGame (1920 x 1080 px) (2)_7
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 102
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360e70a37d5326be0800000000000000
+      internalID: -1485565728571006877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityGame (1920 x 1080 px) (2)_8
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 97
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b900abb4d1f9a0f0800000000000000
+      internalID: -1105086337559557704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityGame (1920 x 1080 px) (2)_9
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 106
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cea1ecf55a75870800000000000000
+      internalID: 8671581438423526462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityGame (1920 x 1080 px) (2)_10
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 56
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bd0ddf5595cd6a0800000000000000
+      internalID: -6423160742671754394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityGame (1920 x 1080 px) (2)_11
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 55
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54f8dcb5cd4c6800800000000000000
+      internalID: 606945561460405340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f7ed692cd21e3474ca2f8956701a28a0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

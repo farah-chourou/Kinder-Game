@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: c008ad7bba9e26a4abbffb0499213a39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9094768411897640889
+    second: Collect us in the maze_0
+  - first:
+      213: 6624183318069008406
+    second: Collect us in the maze_1
+  - first:
+      213: 5902736238652859779
+    second: Collect us in the maze_2
+  - first:
+      213: 7679191328499345267
+    second: Collect us in the maze_3
+  - first:
+      213: -1682888907749457540
+    second: Collect us in the maze_4
+  - first:
+      213: 7445100483770933490
+    second: Collect us in the maze_5
+  - first:
+      213: -3835321729732141363
+    second: Collect us in the maze_6
+  - first:
+      213: 6438092700477889284
+    second: Collect us in the maze_7
+  - first:
+      213: 8868016153425598714
+    second: Collect us in the maze_8
+  - first:
+      213: 8856169773726386874
+    second: Collect us in the maze_9
+  - first:
+      213: 4823442924397978385
+    second: Collect us in the maze_10
+  - first:
+      213: -6255791239868487382
+    second: Collect us in the maze_11
+  - first:
+      213: 4045549200196298573
+    second: Collect us in the maze_12
+  - first:
+      213: -5295907386233735149
+    second: Collect us in the maze_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Collect us in the maze_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1255
+        width: 439
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b73a993fab173e70800000000000000
+      internalID: 9094768411897640889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect us in the maze_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1233
+        width: 467
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6185290a1a3ddeb50800000000000000
+      internalID: 6624183318069008406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect us in the maze_2
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1233
+        width: 502
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385aab3c55bbae150800000000000000
+      internalID: 5902736238652859779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect us in the maze_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 746
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377a671c3d7f19a60800000000000000
+      internalID: 7679191328499345267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect us in the maze_4
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 746
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710629647d25a8e0800000000000000
+      internalID: -1682888907749457540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect us in the maze_5
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 746
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f06144b17f425760800000000000000
+      internalID: 7445100483770933490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect us in the maze_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 93
+        width: 310
+        height: 493
+      alignment: 9
+      pivot: {x: 0.8211937, y: 0.5459014}
+      border: {x: 34, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce9afb053336cac0800000000000000
+      internalID: -3835321729732141363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect us in the maze_8
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 132
+        width: 398
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8db5fe4b5811b70800000000000000
+      internalID: 8868016153425598714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect us in the maze_9
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 489
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba4389bc7f67ea70800000000000000
+      internalID: 8856169773726386874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect us in the maze_10
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 113
+        width: 529
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ec17b8cf40f240800000000000000
+      internalID: 4823442924397978385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect us in the maze_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 319
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318bb288a482186b0800000000000000
+      internalID: -5295907386233735149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 25517e114595cb94188b230d3a1bf8bf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
